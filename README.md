@@ -8,18 +8,9 @@ A simple and clean To-Do List application built with Laravel. This project demon
 - Edit existing tasks
 - Mark tasks as completed
 - Delete tasks
-- Responsive UI (Bootstrap/Tailwind)
-- Validation and error handling
 
 ## 🚀 Tech Stack
 
 - PHP (Laravel Framework)
 - MySQL / SQLite
 - Blade Templating Engine
-- Bootstrap / Tailwind CSS (select one based on your UI)
-- Laravel Breeze (optional for auth)
-
-## 🖼️ Demo
-
-> You can host your app and share a demo link here.
-

@@ -12,5 +12,5 @@ A simple and clean To-Do List application built with Laravel. This project demon
 ## 🚀 Tech Stack
 
 - PHP (Laravel Framework)
-- MySQL / SQLite
+- MySQL
 - Blade Templating Engine
